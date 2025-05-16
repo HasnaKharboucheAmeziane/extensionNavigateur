@@ -1,0 +1,44 @@
+body {
+  height: calc(100vh - 120px);
+  background-color: #121A2F;
+  background-size: contain; 
+}
+
+#logo {
+  height: 12rem;
+  width: 15rem;
+}
+
+#logoCenter {
+  background-image: url("../assets/logo.png");
+  width: 100%;
+  background-size: cover; 
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: #0D1C40;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+  color: #7f7ca9;
+
+}
+
+
+ /* .mousemove{
+  height: 25px;
+  width: 25px;
+  border: 40px solid rgb(201, 9, 208);
+  position: absolute;
+  /* transform: translate(-50%, -50%); pour que la souris et le curseur soit bien au centre */
+  /* border-radius: 50px; 
+  border-image: url(../assets/souris.png); 
+  };   */ 
+
+  

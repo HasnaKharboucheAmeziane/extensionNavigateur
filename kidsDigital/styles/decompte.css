@@ -1,0 +1,20 @@
+.iconAlone {
+    display: flex;
+    align-content: center;
+    width: 8rem;
+    height: 8rem;
+  }
+
+.demoDate{
+    border-color:#dae6f2;
+    border: solid 3px;
+    background-color: #dae6f2;
+    color: #121A2F;
+    font-size: 1rem;
+    font-family: "Arial";
+    font-weight: bold;  
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+}

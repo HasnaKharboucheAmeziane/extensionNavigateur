@@ -1,0 +1,42 @@
+#bienvenueCenter {
+  display: flex;
+}
+
+.bienvenue {
+  display: flex;
+  align-items: center;
+  font-family: "Arial";
+  font-weight: lighter;
+  font-size: 1.7rem;
+}
+
+#B {
+  color:#04ADD6;
+}
+#I {
+  color: #FDB219;
+}
+#E {
+  color: #E70D7B;
+}
+#N {
+  color: #0CCD88;
+}
+#V {
+  color: #7F7CA9;
+}
+#E {
+  color: #F1F3F5;
+}
+#N {
+  color: #04ADD6;
+}
+#U {
+  color: #E70D7B;
+}
+#E {
+  color: #0CCD88;
+}
+#point {
+  color: #E5E9F2;
+}

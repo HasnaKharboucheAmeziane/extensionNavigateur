@@ -1,0 +1,63 @@
+.iconAlone {
+  display: flex;
+  align-content: center;
+  width: 8rem;
+  height: 8rem;
+  padding-bottom: 3rem;
+}
+
+.buttonCenter{
+  display: flex;
+align-content: center;
+padding-right: 4rem;
+}
+
+#styleButtonBlue{
+color:#04ADD6;
+background-color:#0D1C40D6;
+font-family: "Arial";
+font-size: 1rem;
+font-weight: lighter;
+}
+#styleButtonYellow{
+color: #edb036;
+background-color:#0D1C40D6;
+font-family: "Arial";
+font-size: 1rem;
+font-weight: lighter;
+}
+
+#styleButtonRose{
+  color: #ec4096;
+  background-color:#0D1C40D6;
+  font-family: "Arial";
+  font-size: 1rem;
+  font-weight: lighter;
+}
+
+#styleButtonGreen{
+  color: #0CCD88;
+  background-color:#0D1C40D6;
+  font-family: "Arial";
+  font-size: 1rem;
+  font-weight: lighter;
+}
+
+#styleButtonPurple{
+  color: #AAA6DC;
+  background-color:#0D1C40D6;
+  font-family: "Arial";
+  font-size: 1rem;
+  font-weight: lighter;
+}
+
+.buttonRetour{
+ background-color: #7f7ca9;
+ color: #F1F3F5;
+ margin-bottom: 1rem;
+ border: 1px solid #F1F3F5;
+ width: 70px;
+ height: 25px;
+ display: flexbox;
+ justify-content: center;
+}
